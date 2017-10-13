@@ -1,0 +1,30 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "@types/jquery": "^3.2.13",
+    "jquery": "^3.2.1",
+    "vue": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/webpack-env": "^1.13.1",
+    "css-loader": "^0.28.7",
+    "html-loader": "^0.5.1",
+    "less-loader": "^4.0.5",
+    "source-map-loader": "^0.2.2",
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.3",
+    "vue-class-component": "^6.0.0",
+    "vue-loader": "^13.3.0",
+    "vue-template-compiler": "^2.5.0",
+    "vue-ts-loader": "0.0.3",
+    "webpack": "^3.7.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
